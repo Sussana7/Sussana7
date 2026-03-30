@@ -38,17 +38,6 @@ I build **modern, user-focused web applications** and I'm currently transitionin
 - Git & GitHub  
 - Basic Embedded Systems (ESP32, MicroPython, MQTT)  
 
----
-
-## 📌 Featured Project
-
-### 📚 BookVault
-A personal web app that allows users to:
-- Track books they've read  
-- Write and store blurbs/thoughts  
-- Discover and organize favorite books  
-
-> 🚧 Currently building with React + Supabase + AI integration planned
 
 ---
 
