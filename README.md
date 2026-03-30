@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Sussana Teye
 
-<!--
-**Sussana7/Sussana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💡 Aspiring **AI + Full-Stack Engineer**  
+🌍 Based in Ghana  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I build **modern, user-focused web applications** and I'm currently transitioning into creating **AI-powered products**.
+
+- 💻 Strong in frontend development with React & Tailwind  
+- 🧠 Exploring Artificial Intelligence and real-world applications  
+- 🔧 Building full-stack apps with Python, Flask, and Supabase  
+- 🎯 Goal: Become a **Full-Stack AI Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩🏽‍💻 Frontend
+- React  
+- JavaScript  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+
+### ⚙️ Backend
+- Python  
+- Flask  
+
+### 🗄️ Database
+- SQL  
+- Supabase (PostgreSQL)
+
+### 🔌 Other Tools & Skills
+- Git & GitHub  
+- Basic Embedded Systems (ESP32, MicroPython, MQTT)  
+
+---
+
+## 📌 Featured Project
+
+### 📚 BookVault
+A personal web app that allows users to:
+- Track books they've read  
+- Write and store blurbs/thoughts  
+- Discover and organize favorite books  
+
+> 🚧 Currently building with React + Supabase + AI integration planned
+
+---
+
+## 🧠 Currently Learning
+
+- Artificial Intelligence fundamentals  
+- Building AI features into web apps  
+- Improving backend architecture  
+
+---
+
+## 📈 My Goal
+
+To build **intelligent web applications** that combine:
+- Clean UI/UX  
+- Strong backend systems  
+- Real AI functionality  
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 Open to collaborations and learning opportunities  
+- 📬 Always ready to work on impactful projects  
+
+---
+
+⭐ *"Consistency and hard work got me here — and I'm just getting started."*
