@@ -10,27 +10,27 @@
 
 I build **modern, user-focused web applications** and I'm currently transitioning into creating **AI-powered products**.
 
-- 💻 Strong in frontend development with React & Tailwind  
-- 🧠 Exploring Artificial Intelligence and real-world applications  
-- 🔧 Building full-stack apps with Python, Flask, and Supabase  
-- 🎯 Goal: Become a **Full-Stack AI Engineer**
+- Strong in frontend development with React & Tailwind  
+- Exploring Artificial Intelligence and real-world applications  
+- Building full-stack apps with Python, Flask, and Supabase  
+- Goal: Become a **Full-Stack AI Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩🏽‍💻 Frontend
+### Frontend
 - React  
 - JavaScript  
 - HTML5  
 - CSS3  
 - Tailwind CSS  
 
-### ⚙️ Backend
+### Backend
 - Python  
 - Flask  
 
-### 🗄️ Database
+### Database
 - SQL  
 - Supabase (PostgreSQL)
 
@@ -41,7 +41,7 @@ I build **modern, user-focused web applications** and I'm currently transitionin
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - Artificial Intelligence fundamentals  
 - Building AI features into web apps  
@@ -60,8 +60,8 @@ To build **intelligent web applications** that combine:
 
 ## 🤝 Let's Connect
 
-- 💼 Open to collaborations and learning opportunities  
-- 📬 Always ready to work on impactful projects  
+- Open to collaborations and learning opportunities  
+- Always ready to work on impactful projects  
 
 ---
 
