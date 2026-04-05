@@ -21,7 +21,7 @@ I build **modern, user-focused web applications** and I'm currently transitionin
 
 ### Frontend
 - React  
-- JavaScript  
+- Next.js  
 - HTML5  
 - CSS3  
 - Tailwind CSS  
@@ -34,14 +34,20 @@ I build **modern, user-focused web applications** and I'm currently transitionin
 - SQL  
 - Supabase (PostgreSQL)
 
+### ⚙️ Programming Languages
+- JavaScript  
+- TypeScript  
+- Python  
+- C++  
+
 ### 🔌 Other Tools & Skills
 - Git & GitHub  
+- Vite  
 - Basic Embedded Systems (ESP32, MicroPython, MQTT)  
-
 
 ---
 
-##  Currently Learning
+## 📚 Currently Learning
 
 - Artificial Intelligence fundamentals  
 - Building AI features into web apps  
