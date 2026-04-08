@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build **modern, user-focused web applications** and I'm currently transitioning into creating **AI-powered products**.
 
@@ -34,20 +34,20 @@ I build **modern, user-focused web applications** and I'm currently transitionin
 - SQL  
 - Supabase (PostgreSQL)
 
-### ⚙️ Programming Languages
+### Programming Languages
 - JavaScript  
 - TypeScript  
 - Python  
 - C++  
 
-### 🔌 Other Tools & Skills
+### Other Tools & Skills
 - Git & GitHub  
 - Vite  
 - Basic Embedded Systems (ESP32, MicroPython, MQTT)  
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Artificial Intelligence fundamentals  
 - Building AI features into web apps  
@@ -71,4 +71,4 @@ To build **intelligent web applications** that combine:
 
 ---
 
-⭐ *"Consistency and hard work got me here — and I'm just getting started."*
+*"Consistency and hard work got me here — and I'm just getting started."*
